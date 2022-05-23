@@ -1,0 +1,13 @@
+C:\Users\onii-chan\Desktop\C#\abs RPG\bin\Debug\netcoreapp3.1\abs RPG.exe
+C:\Users\onii-chan\Desktop\C#\abs RPG\bin\Debug\netcoreapp3.1\abs RPG.deps.json
+C:\Users\onii-chan\Desktop\C#\abs RPG\bin\Debug\netcoreapp3.1\abs RPG.runtimeconfig.json
+C:\Users\onii-chan\Desktop\C#\abs RPG\bin\Debug\netcoreapp3.1\abs RPG.runtimeconfig.dev.json
+C:\Users\onii-chan\Desktop\C#\abs RPG\bin\Debug\netcoreapp3.1\abs RPG.dll
+C:\Users\onii-chan\Desktop\C#\abs RPG\bin\Debug\netcoreapp3.1\abs RPG.pdb
+C:\Users\onii-chan\Desktop\C#\abs RPG\obj\Debug\netcoreapp3.1\abs RPG.csprojAssemblyReference.cache
+C:\Users\onii-chan\Desktop\C#\abs RPG\obj\Debug\netcoreapp3.1\abs RPG.AssemblyInfoInputs.cache
+C:\Users\onii-chan\Desktop\C#\abs RPG\obj\Debug\netcoreapp3.1\abs RPG.AssemblyInfo.cs
+C:\Users\onii-chan\Desktop\C#\abs RPG\obj\Debug\netcoreapp3.1\abs RPG.csproj.CoreCompileInputs.cache
+C:\Users\onii-chan\Desktop\C#\abs RPG\obj\Debug\netcoreapp3.1\abs RPG.dll
+C:\Users\onii-chan\Desktop\C#\abs RPG\obj\Debug\netcoreapp3.1\abs RPG.pdb
+C:\Users\onii-chan\Desktop\C#\abs RPG\obj\Debug\netcoreapp3.1\abs RPG.genruntimeconfig.cache
